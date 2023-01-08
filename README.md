@@ -1,14 +1,16 @@
+<div align="center">
+
 Estate-agency made by Atamyrat
 ======
-<p align="center">
   On this Estate-Agency website, you can easily find the property you want by searching through the filters. A website's admin page also lists existing user agents. 
-</p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootsrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+### Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
+![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 
 Requirements
 ------
@@ -47,3 +49,5 @@ Please see package.json
 License
 ------
 The Estate-agency is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+</div>
