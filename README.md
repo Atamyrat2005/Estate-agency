@@ -44,7 +44,6 @@ Admin Login Infos / Demo Account
 
 Please see package.json
 
----
 License
 ------
 The Estate-agency is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
