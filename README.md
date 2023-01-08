@@ -9,6 +9,7 @@ Estate-agency made by Atamyrat
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
 ![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
+![jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=Jquery) 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 
